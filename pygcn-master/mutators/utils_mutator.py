@@ -4,9 +4,8 @@ import torch
 import random
 
 ####################################
-# CS 6501 - Software Artifacts
 #
-# Author: Jiayi Chen, Jing Ma
+# Author: Jiayi Chen
 #
 # Time:   12/5/2019
 #

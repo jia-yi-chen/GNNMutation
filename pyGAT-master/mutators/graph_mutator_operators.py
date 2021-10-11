@@ -7,10 +7,8 @@ import scipy.sparse as sp
 import torch
 
 ####################################
-# CS 6501 - Software Artifacts
 #
-# Author: Jiayi Chen (Edge Operators)
-#         Jing Ma (Node Operators)
+# Author: Jiayi Chen, Jing Ma 
 #
 # Time:   12/5/2019
 #

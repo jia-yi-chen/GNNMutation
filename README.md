@@ -14,7 +14,7 @@ A software testing tool intended for injecting faults into trained GNN models. C
 
 ## Getting Started
 
-Mutation tools are located in: "./pygcn-master/mutators" and "./pyGAT-master/mutators".
+Mutation operators are located in:  $GNN_MODEL_ROOT$/mutators/graph_mutator_operators.py 
 
 ### Testing GCN 
 Step 1: set the root as ./pygcn-master.

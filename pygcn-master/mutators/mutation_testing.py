@@ -16,14 +16,6 @@ from mutators.train_and_test_GNN import fitModel
 from mutators.utils_mutator import sample_test_suite
 
 
-####################################
-# CS 6501 - Software Artifacts
-#
-# Author: Jiayi Chen, Jing Ma
-#
-# Time:   12/5/2019
-#
-##################################
 
 # Training settings
 parser = argparse.ArgumentParser()

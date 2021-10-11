@@ -4,10 +4,6 @@ A software testing tool intended for injecting faults into trained GNN models. C
 1) GCN (source code from https://github.com/tkipf/pygcn)
 2) GAT (source code from https://github.com/Diego999/pyGAT)
 
-Mutation tools are located in:
-./pygcn-master/mutators
-./pyGAT-master/mutators
-
 
 ## Requirements 
 * python3
@@ -18,7 +14,7 @@ Mutation tools are located in:
 
 ## Getting Started
 
-
+Mutation tools are located in: "./pygcn-master/mutators" and "./pyGAT-master/mutators".
 
 ### Testing GCN 
 Step 1: set the root as ./pygcn-master.

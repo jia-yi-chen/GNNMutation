@@ -1,8 +1,8 @@
 # GNNMutation
 
 A software testing tool intended for injecting faults into trained GNN models. Currently, the tool has been tested on two popular GNN models using Cora Dataset:
-1) GCN (source code from https://github.com/tkipf/pygcn)
-2) GAT (source code from https://github.com/Diego999/pyGAT)
+1) [GCN](https://github.com/tkipf/pygcn)
+2) [GAT](https://github.com/Diego999/pyGAT)
 
 
 ## Requirements 
